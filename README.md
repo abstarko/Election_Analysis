@@ -51,7 +51,7 @@ The election commission requested additional data to complete the audit which in
    - Diana Degette, who received 73.8% of the vote and 272,892 votes.
    
  ## Challenge Summary
- Colorado had three counties that made up 369,711 votes. Denver is the largest county with 82.8% of the votes. After we finished running our code for the    three candidates we were able to determine that Diana DeGette, with 73.8% of the 369,711 votes is the overall winner. We could use this same thod to dive even deeper. We could use this to see what counties favored which candidates and possibly how many people out of these counties didn't even vote and factor that into our data. 
+ Colorado had three counties that made up 369,711 votes. Denver is the largest county with 82.8% of the votes. After we finished running our code for the    three candidates we were able to determine that Diana DeGette, with 73.8% of the 369,711 votes, is the overall winner. We could use this same process to dive even deeper. We could use this to see what counties favored which candidates and even how many people out of these counties didn't vote and factor that into our data. 
 
 The finalized outline report can be found in the analysis folder named election_analysis.txt.
 
