@@ -55,4 +55,4 @@ The election commission requested additional data to complete the audit which in
 
 The finalized outline report can be found in the analysis folder named election_analysis.txt.
 
-### ![election_results.png](analysis/election_results.png)
+![election_results.png](analysis/election_results.png)
